@@ -1,0 +1,26 @@
+# Site settings
+name: Winter is coming
+email: comeonwinteriscoming@hotmail.com
+author: hurricane
+url: https://emmwinteriscoming.github.io/hurricane.github.io/
+resume_site: 
+github: https://github.com/emmWinterIsComing/
+baseurl: 
+description: aaa
+meta_description: bbb
+motto: ccc
+banner: 未战不可先退
+
+#permalink: /:categories/:year/:month/:day/:title/
+permalink: /:year/:month/:day/:title/
+paginate: 10
+
+exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
+
+github_username: emmWinterIscoming
+
+# Build settings
+markdown: kramdown
+
+baidu_analysis: 94be4b0f9fc5d94cc0d0415ea6761ae9
+
